@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+title:            GolangVan
+tagline:          'For Gophers in Vancouver'
+description:      'The frontpage for the GolangVan meetup group'
+url:              http://golangvan.org
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jingwen Owen Ou'
+  url:            https://twitter.com/JingwenOwenOu
 
 paginate:         1
 
@@ -21,4 +21,4 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/jingweno/golangvan
