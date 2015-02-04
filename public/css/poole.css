@@ -293,6 +293,9 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+.masthead-title .pull-right {
+  padding-left: 215px;
+}
 
 /*
  * Posts and pages
