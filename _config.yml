@@ -12,8 +12,8 @@ url:              http://golangvan.org
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jingwen Owen Ou'
+  url:            https://twitter.com/JingwenOwenOu
 
 paginate:         10
 
