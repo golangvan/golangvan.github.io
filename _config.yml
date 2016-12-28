@@ -1,6 +1,5 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -10,15 +9,19 @@ title:            GolangVan
 tagline:          'For Gophers in Vancouver'
 description:      'The frontpage for the GolangVan meetup group'
 url:              http://golangvan.org
+baseurl:          /
 
 author:
-  name:           'Jingwen Owen Ou'
-  url:            https://twitter.com/JingwenOwenOu
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-paginate:         1
+paginate:         10
 
 # Custom vars
-version:          1.0.0
+version:          2.1.0
 
 github:
   repo:           https://github.com/jingweno/golangvan
+
+gems:
+  - jekyll-paginate
